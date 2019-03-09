@@ -3,5 +3,5 @@ Ultimate Tic Tac Toe for Android
 
 Initial commit. Very rough workable implementation of AI using MCTS.
 
-![screen](screenshot.png)
+<img src="screenshot.png" alt="screenshot" width="360"/>
 
